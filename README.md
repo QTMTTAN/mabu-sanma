@@ -9,7 +9,7 @@ How users can get started with the project
 - this is a react native app using expo cli
 - open terminal / command prompt
 - mkdir "folder_name"
-- expo init "app_name"  (I think this can be skipped, just make another folder and name it)
+- expo init "app_name"
 - choose blank template
 
 - install dependencies: (don't copy paste all, just copy one by one until you reach a comma and also don't include the messages in parenthesis)
